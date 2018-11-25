@@ -82,7 +82,7 @@ Finished in 0.11638 seconds (files took 2.15 seconds to load)
 
 The application was done in within 3h as documnted in the next statistics
 
-![Screenshot 2018-11-25 at 21.59.14](Screenshot 2018-11-25 at 21.59.14.png)
+![Screenshot 2018-11-25 at 21.59.14](https://github.com/Jakub41/Tic-Tak-Toe-App-Rails/blob/master/Screenshot%202018-11-25%20at%2021.59.14.png)
 
 
 
